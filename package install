@@ -1,0 +1,13 @@
+pip install cfscrape
+
+pip install os
+
+pip install random
+
+pip install time
+
+pip install requests
+
+pip install threading
+
+pip install colorama
